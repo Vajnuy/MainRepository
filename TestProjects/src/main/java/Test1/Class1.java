@@ -10,5 +10,7 @@ package Test1;
  * @author ADMIN
  */
 public class Class1 {
-    
+    public static void main(String[]args){
+        System.out.println("Repository is adding now");
+    }
 }
